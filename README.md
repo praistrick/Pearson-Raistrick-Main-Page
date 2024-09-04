@@ -19,3 +19,8 @@ The Kalman Filter is an effective algorithm for estimating the true state values
 ## MCMC Implementation for Simulated Data 
 
 ## Disease Spread Modeling using Continuous Time Markov Chains
+
+## Cost Optimization Linear Programming in Hospitals during an Endemic
+This problem comes from the final project of the first class on operations research I have taken, Mathematical Methods of Operations Research, taught by Dr. John Mitchell of the RPI Mathematical Sciences Department. 
+
+## Time Series Modeling and Methods for Forecasting and Estimating Causal Effects between Indoor and Outdoor Humidity Buildings
