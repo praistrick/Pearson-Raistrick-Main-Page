@@ -16,11 +16,8 @@ I hope this page finds you well and you are able to see and learn about somethin
 https://github.com/praistrick/Kalman-Filter-Implementation
 The Kalman Filter is an effective algorithm for estimating the true state values for continuous discrete time stochastic systems. Here I demonstrate a direct implementation of the Kalman filter in a simple low dimensional system, with an architecture that can be easily built up for higher dimensional systems.
 
+## Time Series Modeling and Methods for Forecasting and Estimating Causal Effects between Indoor and Outdoor Humidity Buildings
+
 ## MCMC Implementation for Simulated Data 
 
 ## Disease Spread Modeling using Continuous Time Markov Chains
-
-## Cost Optimization Linear Programming in Hospitals during an Endemic
-This problem comes from the final project of the first class on operations research I have taken, Mathematical Methods of Operations Research, taught by Dr. John Mitchell of the RPI Mathematical Sciences Department. 
-
-## Time Series Modeling and Methods for Forecasting and Estimating Causal Effects between Indoor and Outdoor Humidity Buildings
