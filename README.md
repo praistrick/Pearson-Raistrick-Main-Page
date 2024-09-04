@@ -18,6 +18,6 @@ The Kalman Filter is an effective algorithm for estimating the true state values
 
 ## Time Series Modeling and Methods for Forecasting and Estimating Causal Effects between Indoor and Outdoor Humidity Buildings
 
-## MCMC Implementation for Simulated Data 
+## Monte Carlo Markov Chain Implementation for Simulated Data 
 
 ## Disease Spread Modeling using Continuous Time Markov Chains
