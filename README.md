@@ -15,3 +15,7 @@ I hope this page finds you well and you are able to see and learn about somethin
 ## Kalman Filter Implementation
 https://github.com/praistrick/Kalman-Filter-Implementation
 The Kalman Filter is an effective algorithm for estimating the true state values for continuous discrete time stochastic systems. Here I demonstrate a direct implementation of the Kalman filter in a simple low dimensional system, with an architecture that can be easily built up for higher dimensional systems.
+
+## MCMC Implementation for Simulated Data 
+
+## Disease Spread Modeling using Continuous Time Markov Chains
