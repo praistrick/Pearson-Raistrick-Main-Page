@@ -1,4 +1,4 @@
-# praistrick.github.io
+# Pearson Raistrick's Main Page 
 add bio, project descrip, link to repository
 
 
