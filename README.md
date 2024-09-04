@@ -2,5 +2,5 @@
 add bio, project descrip, link to repository
 
 
-Kalman/Information Filter Implementation
-https://github.com/praistrick/Kalman-Information-Filter-Implementation 
+## Kalman/Information Filter Implementation
+https://github.com/praistrick/Kalman-Filter-Implementation
