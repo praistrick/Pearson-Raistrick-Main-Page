@@ -10,7 +10,7 @@ Aside from mathematics, I enjoy playing and creating music. I play as a cellist 
 I hope this page finds you well and you are able to see and learn about something you personally may have not seen before!
 
 
-### Note: Page is still currently in development
+# Note: Page is still currently in development
 
 
 ## Kalman Filter Implementation
